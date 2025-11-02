@@ -1,4 +1,6 @@
-- client
+- dashboard
+
+- [ ] create opening page, mode selection, options...
 
 - client
 
