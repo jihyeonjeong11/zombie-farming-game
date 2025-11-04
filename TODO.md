@@ -1,8 +1,13 @@
 - dashboard
 
 - [ ] create opening page, mode selection, options...
+- [ ] create opening dashboard
+- [ ] dashboard index -> react-router
+- [ ] add some kind of bundler
 
 - client
+
+  - [ ] add react-router
 
   - [ ] create an entry point function for the client code which creates a canvas, and starts the game loop
   - [ ] a user shall be able to move their player around with w,s,a,d
@@ -31,4 +36,3 @@
 - server
 
 - multiplayer features(maybe)
-- dashboard
