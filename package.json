@@ -8,7 +8,8 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "npm-run-all --parallel",
+    "dev": "npm-run-all --parallel dev:*",
+    "dev:website": "npm run dev --workspace=packages/website",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "JIHYEON JEONG",
