@@ -4,9 +4,10 @@
 - [ ] create opening dashboard
 - [ ] dashboard index -> react-router
 - [ ] add some kind of bundler
+- [ ] wait for update for [react router issue](https://github.com/remix-run/react-router/issues/14489)
+      check this [patch-package recommendations](https://github.com/ds300/patch-package/issues/277)
 
 - client
-
   - [ ] add react-router
 
   - [ ] create an entry point function for the client code which creates a canvas, and starts the game loop
