@@ -1,0 +1,10 @@
+{
+  "name": "@zombie-farming-game/client",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {},
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {}
+}
